@@ -28,3 +28,9 @@ HenCoder 绘制 7 属性动画 练习项目
 ![](images/project_sample.png)
 
 练习做完，这期的内容也就掌握得差不多了。
+
+---
+
+练习做完，对第6个 practice 稍作修改，内容如下：
+
+![hw](./images/hw.png)
